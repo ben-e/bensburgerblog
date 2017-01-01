@@ -1,7 +1,7 @@
 theme = "anybodyhome"
-baseurl = ""
+baseurl = "https://hugosite.com"
 languageCode = "en-us"
-title = "Ben's Burger Blog"
+title = "Anybody Home?"
 
 [params]
-  subtitle = "A  [ben-e](https://github.com/ben-e) blog."
+  subtitle = "A Simple Theme"
