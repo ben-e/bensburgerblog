@@ -1,5 +1,5 @@
 theme = "anybodyhome"
-baseurl = "https://ben-e.github.io/bensburgerblog/"
+baseurl = "http://ben-e.github.io/"
 languageCode = "en-us"
 title = "Ben's Burger Blog"
 
