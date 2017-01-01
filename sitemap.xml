@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ben-e.github.io/bensburgerblog/post/first_post/</loc>
+    <loc>/post/first_post/</loc>
     <lastmod>2017-01-01T12:54:39-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ben-e.github.io/bensburgerblog/</loc>
+    <loc>/</loc>
     <lastmod>2017-01-01T12:54:39-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ben-e.github.io/bensburgerblog/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2017-01-01T12:54:39-08:00</lastmod>
     <priority>0</priority>
   </url>
