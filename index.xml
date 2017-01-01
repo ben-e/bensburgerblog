@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ben&#39;s Burger Blog</title>
-    <link>http://ben-e.github.io/bensburgerblog/index.xml</link>
+    <link>https://ben-e.github.io/bensburgerblog/index.xml</link>
     <description>Recent content on Ben&#39;s Burger Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 12:54:39 -0800</lastBuildDate>
-    <atom:link href="http://ben-e.github.io/bensburgerblog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ben-e.github.io/bensburgerblog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Let&#39;s get one thing straight.</title>
-      <link>http://ben-e.github.io/bensburgerblog/post/first_post/</link>
+      <link>https://ben-e.github.io/bensburgerblog/post/first_post/</link>
       <pubDate>Sun, 01 Jan 2017 12:54:39 -0800</pubDate>
       
-      <guid>http://ben-e.github.io/bensburgerblog/post/first_post/</guid>
+      <guid>https://ben-e.github.io/bensburgerblog/post/first_post/</guid>
       <description>&lt;p&gt;I am not &lt;a href=&#34;https://bensburgerblog.wordpress.com/&#34;&gt;this guy&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

@@ -1,7 +1,8 @@
 theme = "anybodyhome"
-baseurl = "http://ben-e.github.io/bensburgerblog/"
+baseurl = "https://ben-e.github.io/bensburgerblog/"
 languageCode = "en-us"
 title = "Ben's Burger Blog"
 canonifyurls = true
+
 [params]
   subtitle = "A  [ben-e](https://github.com/ben-e) blog."
