@@ -40,9 +40,10 @@ That's all I've got, I'm not sure what I can say in conclusion other than: the f
 
 ----------------
 
-**Other thoughts:**
+**Other thoughts and articles:**
 
 * I suppose you could argue that placing Locol in a rapidly gentrifying neighborhood can stop or slow the gentrification, but somehow, I just don't think this is the case.
+* Eater has been covering this like crazy. [Here's](http://www.eater.com/2017/1/5/14180092/pete-wells-locol-review) a great article digging into the NYT situation.
 
 ----------------
 
