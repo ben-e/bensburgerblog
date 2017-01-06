@@ -6,8 +6,70 @@
     <description>Recent content on Ben&#39;s Burger Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jan 2017 20:25:19 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2017 08:46:10 -0800</lastBuildDate>
     <atom:link href="https://ben-e.github.io/bensburgerblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Note on the Rating System</title>
+      <link>https://ben-e.github.io/bensburgerblog/post/rating_system/</link>
+      <pubDate>Thu, 05 Jan 2017 08:46:10 -0800</pubDate>
+      
+      <guid>https://ben-e.github.io/bensburgerblog/post/rating_system/</guid>
+      <description>&lt;p&gt;Rather than give each burger a score out of 5 or 10, I am going to rank the burger on an absolute scale as compared to the other burgers that have been reviewed. For example, Locol being my first review, get&amp;rsquo;s a 1. If another burger comes along and outperforms Locol, then that burger get&amp;rsquo;s the 1 spot, and Locol moves to 2, and so on. I will keep a .csv with the most up-to-date details in the &lt;a href=&#34;https://github.com/ben-e/bensburgerblog&#34;&gt;github repo&lt;/a&gt; housing this blog.&lt;/p&gt;
+
+&lt;p&gt;Onward.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Locol - Oakland</title>
+      <link>https://ben-e.github.io/bensburgerblog/post/locol/</link>
+      <pubDate>Thu, 05 Jan 2017 08:45:49 -0800</pubDate>
+      
+      <guid>https://ben-e.github.io/bensburgerblog/post/locol/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://imgur.com/zQvnJck.png&#34; alt=&#34;Locol&#39;s Okalnd Restaurant&#34; style=&#34;width:600px;height:450px;&#34;&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;On January 3rd, 2017 &lt;a href=&#34;http://www.welocol.com/&#34;&gt;Locol&lt;/a&gt;, the small time burger chain with Michelin pedigree and a &lt;a href=&#34;http://www.eater.com/2016/9/23/12981936/locol-watts-roy-choi-daniel-patterson&#34;&gt;social cause&lt;/a&gt;, was &lt;a href=&#34;http://www.nytimes.com/2017/01/03/dining/locol-review-oakland-california-pete-wells.html?_r=0&#34;&gt;skewered by the New York Times&lt;/a&gt;. This has caused &lt;a href=&#34;http://www.eater.com/2017/1/4/14164622/roy-choi-nyt-review-locol&#34;&gt;quite a stir&lt;/a&gt; in the world of&amp;hellip;people who review cheap food. Fortunately for me, I am now one of those people, and Locol Oakland - the same location reviewed by NYT food critic Pete Wells - is only blocks from my office. So on a stormy Wednesday night, my partner and I headed over to see what the hell was going on.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;First things first: the &lt;a href=&#34;http://www.welocol.com/locol-oakland&#34;&gt;menu&lt;/a&gt; is stupid. The burgers are all called &amp;ldquo;burgs,&amp;rdquo; and the &amp;ldquo;Chicken NOodle Soup&amp;rdquo; doesn&amp;rsquo;t have any noodles in it (get it? it&amp;rsquo;s a pun). Other menu items include &amp;ldquo;Choped Salad&amp;rdquo; and &amp;ldquo;Red Beanzz &amp;amp; Rice.&amp;rdquo; Why? To me, it just comes off as pandering to the urban audience Locol says it wants to help (white chef&amp;rsquo;s burden anybody?).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;On and that&amp;rsquo;s another thing: the location. Oakland is often seen from the outside as San Francisco&amp;rsquo;s poor, dirty, crime-ridden little sister (just look at any San Francisco Chronicle article mentioning Oakland), but the truth is Oakland is experiencing &lt;a href=&#34;https://www.wired.com/2015/10/uber-moving-to-oakland-will-test-its-economy/&#34;&gt;gentrification&lt;/a&gt; just like the rest of the Bay Area. Likin San Francisco, the gap between the richest and poorest is striking, but unlike San Francisco the poorest neighborhoods are geographically far awaye  from the richest. So guess where Locol is based. Not in the &lt;a href=&#34;http://thepulseofoakland.com/#food&#34;&gt;&amp;ldquo;food desert&amp;rdquo;&lt;/a&gt; of East Oakland, but blocks from offices housing Pandora, Wells Fargo, Kaiser Permanente, and of course me. The NYT food critic Pete Wells has been criticized for noting that there is better food adjacent to Locol, and disregarding the social mission, but I think he might be on to something. There is better food nearby, and there are plenty of people who can afford it. There is not a McDonalds or other &amp;ldquo;classic&amp;rdquo; fast food in sight (though there is an underground Subway in the 19th Street BART station nearby), who Locol pupports to be competing against. Now this isn&amp;rsquo;t to say there aren&amp;rsquo;t also people who will benefit from good, cheap food at the current location, but I just can&amp;rsquo;t tell if Locol wants to help, or be &lt;em&gt;seen&lt;/em&gt; helping.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://imgur.com/Z96r6OO.png&#34; alt=&#34;The Cheeseburg&#34; style=&#34;width:600px;height:450px;&#34;&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;OK, OK, the food. I had the &amp;ldquo;Cheeseburg&amp;rdquo; (shoot me) with a meat patty, while my partner had the same with a veggie patty, as well as a side of the creamy slaw. The price is very reasonable with my total coming in at $12. The bun was a bit dense, almost like it had been frozen and then defrosted. The greenery was fine (what else am I supposed to saay about lettuce?). Below the lettuce and above the cheese was a pretty intersting relish, kind of hard for me to describe because I&amp;rsquo;m not a real food writer. After that I sort of melted cheese, a pretty tasteless beef patty, and another dense bun. I am definitely being a bit harsh, the burger still tasted pretty great, left me feeling full, and if Locol is to be believed, wasn&amp;rsquo;t that unhealthy. Now I have to say the veggie patty was much better tasting and offered an interesting crunch. The creamy slaw was fine, maybe a little creamy for my taste, but that&amp;rsquo;s seems pretty personal. I should also mention that the staff were very friendly, and helped give the place a warm, welcoming feel.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://imgur.com/5TXWKr9.png&#34; alt=&#34;The Veggie Cheeseburg&#34; style=&#34;width:600px;height:450px;&#34;&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;That&amp;rsquo;s all I&amp;rsquo;ve got, I&amp;rsquo;m not sure what I can say in conclusion other than: the food was fine, but the social cause ehhhh.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Other thoughts:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I suppose you could argue that placing Locol in a rapidly gentrifying neighborhood can stop or slow the gentrification, but somehow, I just don&amp;rsquo;t think this is the case.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Rank at time of writing: 1.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>So what&#39;s the point?</title>
