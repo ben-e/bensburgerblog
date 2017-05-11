@@ -1,13 +1,13 @@
 +++
 date = "2017-05-10T21:45:26-07:00"
-title = "superduper"
+title = "Super Duper Burger"
 
 +++
 
 [super_one]: http://imgur.com/kMqV3cX.jpg "It's a Cheeseburger"
 [pickle]: http://imgur.com/hBHM0MG.jpg "They're Pickels"
 
-<img src="http://imgur.com/kMqV3cX.png" alt="Locol's Okalnd Restaurant" style="width:600px;height:450px;">
+<img src="http://imgur.com/kMqV3cX.jpg" alt="It's a Cheeseburger" style="width:600px;height:450px;">
 
 ----------------
 
@@ -24,8 +24,6 @@ The pickles are good too.
 ----------------
 
 <img src="http://imgur.com/hBHM0MG.jpg" alt="They're Pickels" style="width:600px;height:450px;">
-
-----------------
 
 ----------------
 
